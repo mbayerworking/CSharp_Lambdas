@@ -1,0 +1,15 @@
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\bin\Debug\net6.0\CSharp_Lambdas.exe
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\bin\Debug\net6.0\CSharp_Lambdas.deps.json
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\bin\Debug\net6.0\CSharp_Lambdas.runtimeconfig.json
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\bin\Debug\net6.0\CSharp_Lambdas.dll
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\bin\Debug\net6.0\ref\CSharp_Lambdas.dll
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\bin\Debug\net6.0\CSharp_Lambdas.pdb
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.csproj.AssemblyReference.cache
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.AssemblyInfoInputs.cache
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.AssemblyInfo.cs
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.dll
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\ref\CSharp_Lambdas.dll
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.pdb
+C:\Users\12537\source\repos\csharp\CSharp_Lambdas\obj\Debug\net6.0\CSharp_Lambdas.genruntimeconfig.cache
